@@ -10,7 +10,7 @@ class BetterPlayerAsmsAudioTrack {
   final String? label;
 
   ///Language code
-  final String? language;
+  String? language;
 
   ///Url of audio track
   final String? url;
